@@ -1,0 +1,17 @@
+.title {
+    color: blue;
+}
+
+.imgWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imgWrapper img {
+    width: 450px;
+}
+
+.textCenter {
+    text-align: center;
+}
